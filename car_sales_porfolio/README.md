@@ -3,6 +3,10 @@ This rich dataset encompassed over 371,000 rows, brimming with details about veh
 
 In the data preparation phase, I ensured consistency by handling missing values and correcting inaccuracies in fields like year of registration and month of registration.
 
+<p align="center">
+  <img src="https://github.com/lucnguyen104/supply_chain_analysis/blob/main/data_model.png" height="400">
+</p>
+
 ## 💡𝗧𝗼𝗽 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
 1️⃣Nordrhien-Westfalen State led in car sales 85k, showcasing significant market activity.
 2️⃣Volkswagen emerged as the leading brand with 21.43% market share, followed by BMW and Opel (both at 10%).
