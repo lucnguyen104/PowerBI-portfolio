@@ -22,11 +22,11 @@ In the data preparation phase, I ensured consistency by handling missing values 
 
 7️⃣ Manual gearbox cars were preferred by buyers, constituting 73% of total sales.
 
-8️⃣ The Golf model topped sales charts with 30,000 units sold
+8️⃣ The Golf model topped sales charts with 30,000 units sold.
 
-9️⃣"10,780 cars were sold at a price of 0, accounting for 2.90% of total sales.
+9️⃣ 10,780 cars were sold at a price of 0, accounting for 2.90% of total sales.
 
-🔟"Sonstige_Autos" brand had the highest average price at €615,956, reflecting premium pricing in the market.
+🔟 "Sonstige_Autos" brand had the highest average price at €615,956, reflecting premium pricing in the market.
 
 
 
