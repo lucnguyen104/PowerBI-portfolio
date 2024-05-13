@@ -3,9 +3,7 @@ This rich dataset encompassed over 371,000 rows, brimming with details about veh
 
 In the data preparation phase, I ensured consistency by handling missing values and correcting inaccuracies in fields like year of registration and month of registration.
 
-<p align="center">
-  <pdf src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/car_sales_porfolio/car_sales_porfolio.pdf" height="400">
-</p>
+<object data="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/car_sales_porfolio/car_sales_porfolio.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## 💡𝗧𝗼𝗽 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
 1️⃣Nordrhien-Westfalen State led in car sales 85k, showcasing significant market activity.
