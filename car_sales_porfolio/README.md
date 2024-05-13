@@ -9,6 +9,7 @@ In the data preparation phase, I ensured consistency by handling missing values 
 
 ## 💡𝗧𝗼𝗽 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
 1️⃣Nordrhien-Westfalen State led in car sales 85k, showcasing significant market activity.
+
 2️⃣Volkswagen emerged as the leading brand with 21.43% market share, followed by BMW and Opel (both at 10%).
 3️⃣Limousines were the most popular vehicle type, accounting for 25% of all sales.
 4️⃣March and June saw peak car buying activity, while 1999, 2005, and 2020 had the highest annual sales volume.
