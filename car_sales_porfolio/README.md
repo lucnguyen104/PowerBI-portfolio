@@ -4,7 +4,7 @@ This rich dataset encompassed over 371,000 rows, brimming with details about veh
 In the data preparation phase, I ensured consistency by handling missing values and correcting inaccuracies in fields like year of registration and month of registration.
 
 <p align="center">
-  <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/car_sales_porfolio/car_sales_porfolio.pdf" height="400">
+  <pdf src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/car_sales_porfolio/car_sales_porfolio.pdf" height="400">
 </p>
 
 ## 💡𝗧𝗼𝗽 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
