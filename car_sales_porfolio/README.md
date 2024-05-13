@@ -1,4 +1,4 @@
-##𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁:
+## 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁:
 This rich dataset encompassed over 371,000 rows, brimming with details about vehicles and their transactions across various German states.
 
 In the data preparation phase, I ensured consistency by handling missing values and correcting inaccuracies in fields like year of registration and month of registration.
