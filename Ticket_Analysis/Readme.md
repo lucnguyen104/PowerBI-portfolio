@@ -15,3 +15,12 @@ Agent performance in terms of average resolution time and SLA violations, as wel
 <p align="center">
   <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-0.jpg" height="400">
 </p>
+<p align="center">
+  <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-1.jpg" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-2.jpg" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-3.jpg" height="400">
+</p>
