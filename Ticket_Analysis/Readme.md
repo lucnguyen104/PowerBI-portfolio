@@ -8,7 +8,7 @@ Ticket Volume Trends:
 
 • Examine ticket distribution during standard work hours versus after hours.
 
-• Recognize peak ticket creation times\\
+• Recognize peak ticket creation times\
 
 Ticket Content and Resolution:
 
