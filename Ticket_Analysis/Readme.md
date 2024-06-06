@@ -8,18 +8,23 @@ Ticket Volume Trends:
 
 • Examine ticket distribution during standard work hours versus after hours.
 
-• Recognize peak ticket creation times\
+• Recognize peak ticket creation times
 
 Ticket Content and Resolution:
 
 • Identify trends in ticket topics
+
 • Investigate first response and resolution times against SLAs.
+
 • Compare support channels (chat, phone, email)
+
 • Analyze ticket geography for trends in submissions or product issues.
 
 Performance Metrics:
 • Evaluate agent SLA adherence for first responses and resolutions.
+
 • Explore customer satisfaction rates across agents, topics and other categories
+
 • Check how quickly tickets move through the resolution process.
 
 <p align="center">
