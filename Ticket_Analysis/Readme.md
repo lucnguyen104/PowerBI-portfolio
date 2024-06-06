@@ -1,16 +1,23 @@
 My report addresses key questions, including:
 
-Daily changes in ticket status.
+Ticket Volume Trends:
 
-Peak times for ticket creation, considering work hours and non-work hours, as well as weekdays and weekends.
+• Analyze daily, weekly and monthly volumes
+• Compare volumes between workdays and weekends
+• Examine ticket distribution during standard work hours versus after hours.
+• Recognize peak ticket creation times
 
-Ticket log to provide an overview of tickets.
+Ticket Content and Resolution:
 
-SLA targets for both first response and resolution, and SLA violations.
+• Identify trends in ticket topics
+• Investigate first response and resolution times against SLAs.
+• Compare support channels (chat, phone, email)
+• Analyze ticket geography for trends in submissions or product issues.
 
-The country from which most tickets are created and the trending ticket topic.
-
-Agent performance in terms of average resolution time and SLA violations, as well as ratings received by agents across all levels 1 to 5.
+Performance Metrics:
+• Evaluate agent SLA adherence for first responses and resolutions.
+• Explore customer satisfaction rates across agents, topics and other categories
+• Check how quickly tickets move through the resolution process.
 
 <p align="center">
   <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-0.jpg" height="400">
