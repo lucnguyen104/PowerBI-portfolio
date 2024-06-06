@@ -12,3 +12,6 @@ The country from which most tickets are created and the trending ticket topic.
 
 Agent performance in terms of average resolution time and SLA violations, as well as ratings received by agents across all levels 1 to 5.
 
+<p align="center">
+  <img src="https://github.com/lucnguyen104/supply_chain_analysis/blob/main/data_model.png" height="400">
+</p>
