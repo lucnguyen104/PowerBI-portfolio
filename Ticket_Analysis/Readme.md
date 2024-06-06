@@ -2,9 +2,12 @@ My report addresses key questions, including:
 
 Ticket Volume Trends:
 
-• Analyze daily, weekly and monthly volumes\\
-• Compare volumes between workdays and weekends\\
-• Examine ticket distribution during standard work hours versus after hours.\\
+• Analyze daily, weekly and monthly volumes
+
+• Compare volumes between workdays and weekends
+
+• Examine ticket distribution during standard work hours versus after hours.
+
 • Recognize peak ticket creation times\\
 
 Ticket Content and Resolution:
