@@ -114,7 +114,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
  * Subsequently, I computed the Incremental Revenue (IR) similar to the ISU formula, which involves calculating the difference between the revenue after the promotion and the revenue before the promotion.
 
 #### SQL
-![Request 5](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6f0ccac0-f72b-4700-bfea-4f6ba7050653)
+![Request 5](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309549517-04272336-52f0-4023.jpg)
 
 #### Power BI
 ![Request 5 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20210023.png)
