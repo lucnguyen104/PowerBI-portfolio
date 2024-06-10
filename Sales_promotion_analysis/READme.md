@@ -275,7 +275,7 @@ Are there specific products that respond exceptionally well or poorly to promoti
 
 #### poor respond
 
-![22](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/692ebd57-c271-4ec2-b465-4a0e71ea2d92)
+![22](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20223707.png)
 
 #
 [Home 🔁](#tables-of-content)
