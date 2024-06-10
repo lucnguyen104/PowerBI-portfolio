@@ -223,7 +223,7 @@ Is there a significant difference in the performance of discount-based promotion
 
  * On the other hand, discounted offers show minimal growth, and in some cases, even a decrease in quantity sold, highlighting the stark difference in performance between discount-based promotions and BOGOF or cashback promotions.
 
-![17](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/ccc77cb6-132c-4e9a-b4fd-730243c58d61)
+![17](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20220727.png)
 
 
 #
