@@ -1,7 +1,5 @@
 # CRPC 9: Analyse Promotions and Provide Tangible Insights to Sales Director
 
-### Business Reqest Solutions with query and result [Link](https://docs.google.com/document/d/1k7-CKe6dfkA2_3Gzwb8p2flDm93unUiCH0xlnRl5JHA/edit?usp=sharing)
-
 ### Masterdata where you can see which types of changes i have made [link](https://docs.google.com/spreadsheets/d/1OKabRHFVq5sbRbgkey35Izg1DyLx6ui6MOKhy8l8gds/edit?usp=sharing)
 #
 
