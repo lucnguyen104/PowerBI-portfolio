@@ -50,7 +50,7 @@ For this project, I was provided with separate tables of data, namely dim_campai
 
 ![3](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309546255-6301c496-9158-44f6.jpg) 
 
-![4](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6ced385a-1a02-4425-9bd6-6b49fcc877f1)
+![4](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309546262-6ced385a-1a02-4425-9bd6-6b49fcc877f1.jpg)
 
 
 #
