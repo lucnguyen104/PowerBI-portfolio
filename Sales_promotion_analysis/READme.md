@@ -201,7 +201,8 @@ What are the bottom promotion types that resulted in the lowest Incremental Reve
 ### Request 2
 What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units?
 
-![16](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/50581a74-ceed-4336-9e1d-ddf11438faae)
+![16](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20222450.png
+)
 
 
 ### Request 2 optional
