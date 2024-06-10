@@ -208,7 +208,7 @@ What are the bottom 2 promotion types in terms of their impact on Incremental So
 ### Request 2 optional
 What are the top promotion types in terms of their impact on Incremental Sold Units?
 
-![15](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20222450.png)
+![15](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20222650.png)
 
 
 #
