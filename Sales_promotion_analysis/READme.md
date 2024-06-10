@@ -62,7 +62,7 @@ Start by importing the 'retail_events_db' database into MySQL. Craft SQL queries
 Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' (Buy One Get One Free). This information will help us identify high-value products that are currently being heavily discounted, which can be useful for evaluating our pricing and promotion strategies.
 
 #### SQL
-![request 1 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/850df87a-c9ea-41b1-9f39-244dca81d258)
+![request 1 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309549319-850df87a-c9ea.jpg)
 
 #### Power BI
 ![request 1](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/3864c436-97d2-40a8-b643-9f16ea2c3154)
