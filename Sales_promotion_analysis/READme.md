@@ -82,7 +82,7 @@ Generate a report that provides an overview of the number of stores in each city
 Generate a report that displays each campaign along with the total revenue generated before and after the campaign? The report includes three key fields: campaign_name, total_revenue(before_promotion), total_revenue(after_promotion). This report should help in evaluating the financial impact of our promotional campaigns. (Display the values in millions).
 
 #### SQL
-![Request 3](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/fd56d9f6-9d23-4b67-81b5-d96c487d87de)
+![Request 3](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309549437-fd56d9f6-9d23-4b67.jpg)
 
 
 #### Power BI
