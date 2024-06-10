@@ -271,7 +271,7 @@ Which product categories saw the most significant lift in revenue from the promo
 Are there specific products that respond exceptionally well or poorly to promotions?
 
 #### well respond
-![21](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/9f3f5c33-4fd9-4bc8-9e1e-68a405aafac6)
+![21](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20223501.png)
 
 #### poor respond
 
