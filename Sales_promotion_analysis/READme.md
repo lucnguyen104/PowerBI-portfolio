@@ -75,7 +75,7 @@ Generate a report that provides an overview of the number of stores in each city
 ![Request 2](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6e56ac3f-4880-4e50-a3ed-e5bb49122ff4)
 
 #### Power BI
-![Request 2 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/5b8eb5cd-8eab-4e32-84db-7e2b3d6285ab)
+![Request 2 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20204809.png)
 
 [Home 🔁](#tables-of-content)
 ### Request 3.
