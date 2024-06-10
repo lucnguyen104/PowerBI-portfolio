@@ -86,7 +86,7 @@ Generate a report that displays each campaign along with the total revenue gener
 
 
 #### Power BI
-![Request 3 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/17ffd671-7725-43a8-99cc-5656ab78645f)
+![Request 3 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20205150.png)
 
 
 [Home 🔁](#tables-of-content)
