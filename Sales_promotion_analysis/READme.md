@@ -188,7 +188,7 @@ Check out this insights to understand top 2 store have whats kinds of things com
 ### Request 1 
 What are the top 2 promotion types that resulted in the highest Incremental Revenue?
 
-![13](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/2be019a3-831c-4879-9139-89bacc77ed3a)
+![13](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20221950.png)
 
 [Home 🔁](#tables-of-content)
 ### Request 1 optional
