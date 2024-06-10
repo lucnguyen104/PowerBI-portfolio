@@ -194,7 +194,7 @@ What are the top 2 promotion types that resulted in the highest Incremental Reve
 ### Request 1 optional
 What are the bottom promotion types that resulted in the lowest Incremental Revenue?
 
-![14](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/ab9ce955-cebb-4d76-ab04-078765ce1ce7)
+![14](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20222219.png)
 
 #
 
