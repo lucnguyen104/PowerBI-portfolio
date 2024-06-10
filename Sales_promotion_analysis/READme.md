@@ -298,7 +298,7 @@ Are there specific products that respond exceptionally well or poorly to promoti
 What is the correlation between product category and promotion type effectiveness?
 
 
-![25](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6d2ebc7c-cef2-45ce-af98-ed12ee9f1987)
+![25](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20224647.png)
 
 #
 [Home 🔁](#tables-of-content)
