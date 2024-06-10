@@ -172,7 +172,7 @@ How does the performance of stores vary by city? Are there any common characteri
 
  * Additionally, these stores have observed significant sales of certain common products, which were among the top-selling items across both stores. Furthermore, it was found that the highest sales in the home appliance category occurred in the top two stores.
 
-![11](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/bcb22e5b-611d-418a-80c7-d5da831a3821)
+![11](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20220727.png)
 
 Check out this insights to understand top 2 store have whats kinds of things common
 
