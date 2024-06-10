@@ -13,11 +13,8 @@
  * [Store Performance Analysis](#store-performance-analysis)
  * [Promotion type Analysis](#promotion-type-analysis)
  * [Product and Category Analysis](#product-and-category-analysis)
-9. [Recommendation](#some-recommendation)
-10. [Summer recommendation](#recommendation-for-summer-campaign)
-11. [Learning](#my-learning)
-12. [Gratitude](#gratitude)
-13. [End](#the-end)
+8. [Recommendation](#some-recommendation)
+9. [Summer recommendation](#recommendation-for-summer-campaign)
 
 #
 
