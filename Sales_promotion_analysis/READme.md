@@ -56,7 +56,7 @@ For this project, I was provided with separate tables of data, namely dim_campai
 #
 [Home 🔁](#tables-of-content)
 ## Business Request
-Start by importing the 'retail_events_db' database into MySQL Workbench. Craft SQL queries to address the specified business questions. Save these queries in an SQL file and upload it to GitHub. Share the GitHub link and include query outputs in your presentation.
+Start by importing the 'retail_events_db' database into MySQL. Craft SQL queries to address the specified business questions. Save these queries in an SQL file and upload it to GitHub. Share the GitHub link and include query outputs in your presentation.
 
 ### Request 1.
 Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' (Buy One Get One Free). This information will help us identify high-value products that are currently being heavily discounted, which can be useful for evaluating our pricing and promotion strategies.
