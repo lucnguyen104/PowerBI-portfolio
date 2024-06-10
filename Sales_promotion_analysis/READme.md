@@ -140,7 +140,7 @@ Which are the top 10 stores in terms of Incremental Revenue (IR) generated from 
 ### Request 1 Optional
 Which are the bottom 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
 
-![7](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/b12d86da-de5e-4303-bb20-68c84411d63c)
+![7](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20211039.png)
 
 
 #
