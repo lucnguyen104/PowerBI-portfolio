@@ -72,7 +72,7 @@ Provide a list of products with a base price greater than 500 and that are featu
 Generate a report that provides an overview of the number of stores in each city. The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence. The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
 
 #### SQL
-![Request 2](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6e56ac3f-4880-4e50-a3ed-e5bb49122ff4)
+![Request 2](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309549379-6e56ac3f-4880.jpg)
 
 #### Power BI
 ![Request 2 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20204809.png)
