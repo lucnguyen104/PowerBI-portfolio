@@ -320,7 +320,6 @@ To increase revenue in bottom-performing stores, it is essential to understand t
 #### 05  What kinds of promo we can provide for future campaign to Maximizing Revenue?
 Based on our analysis, promotions such as 500 cashback, BOGOF (Buy One Get One Free), and 33% discounts tend to perform well. These promotions maintain a good balance between post-promotion revenue and profit margin.
 
-![26](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/cbf29748-f1c4-47b8-8045-596aefb039fa)
 
 #
 [Home 🔁](#tables-of-content)
@@ -351,18 +350,7 @@ also This project has been truly rewarding, allowing me to showcase my work and 
 
 #
 [Home 🔁](#tables-of-content)
-## Gratitude
 
-I'm grateful to Codebasics for providing a platform for aspiring data analysts to work on real-time datasets and enhance their skills.
-
-#
-
-**Check out my submission and let me know what you think!**
-
-Your feedback is highly plays a crucial role in my growth, so please feel free to share any suggestions.
-
-Apart from this project, I have also completed over 20+ Power BI projects, which you can explore on NovyPro at [NovyPro Portfolio](https://www.novypro.com/profile_projects/saddamansari)
 
 Thank you for taking the time to view my project. I hope you enjoyed it.
-#
-**Note;- I am Open to internship or entry level of data analytics or power bi developer role , so you have any oppening which is based on my profile so please connect with me on Linkeldin and disccuse your requirement.**
+
