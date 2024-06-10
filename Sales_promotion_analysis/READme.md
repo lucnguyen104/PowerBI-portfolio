@@ -44,7 +44,7 @@ Now the sales director wants to understand which promotions did well and which d
 
 For this project, I was provided with separate tables of data, namely dim_campaign, dim_product, dim_store, and fact_events.
 
-![1](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/aa5509d2-a5d1-4c24-bc93-9324bdabd897) 
+![1](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309546242-aa5509d2-a5d1-4c24-bc93-9324bdabd897.jpg) 
 
 ![2](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/cf2428b2-76b6-4a94-b64f-4643c6f06319)
 
