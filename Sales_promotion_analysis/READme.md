@@ -123,7 +123,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
 [Home 🔁](#tables-of-content)
 ## Kpis 
 
-![kpis optional](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/46fd7b15-36bd-4b8b-8acb-7ce625d4191d)
+![kpis optional](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20210301.png)
 
 
 #
