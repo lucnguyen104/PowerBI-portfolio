@@ -148,7 +148,7 @@ Which are the bottom 10 stores in terms of Incremental Revenue (IR) generated fr
 ### Request 2
 Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
 
-![9](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/d3055982-7014-463d-868c-df4907b815b8)
+![9](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20211354.png)
 
 
 [Home 🔁](#tables-of-content)
