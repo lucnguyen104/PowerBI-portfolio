@@ -258,7 +258,7 @@ Therefore, Promotions 500 Cashback, BOGOF, and 33% Off could be considered as th
 ### Request 1
 Which product categories saw the most significant lift in sales from the promotions?
 
-![19](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/74c37a1a-507d-4488-bf5b-4fb8f0d8b542)
+![19](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20223053.png)
 
 ### Request 1 Optional
 Which product categories saw the most significant lift in revenue from the promotions?
