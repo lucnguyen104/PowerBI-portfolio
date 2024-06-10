@@ -117,7 +117,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
 ![Request 5](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6f0ccac0-f72b-4700-bfea-4f6ba7050653)
 
 #### Power BI
-![Request 5 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/917ca9d8-4ce8-47be-a1c2-8e4eec3e749b)
+![Request 5 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20210023.png)
 
 #
 [Home 🔁](#tables-of-content)
