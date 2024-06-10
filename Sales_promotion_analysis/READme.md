@@ -104,7 +104,7 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
 ![Request 4 ](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/04272336-52f0-4023-a66a-4c49bc2c4f5c)
 
 #### Power BI
-![Request 4 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/f43ff00f-09da-4fc2-85de-78fafdfc0388)
+![Request 4 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20205452)
 
 [Home 🔁](#tables-of-content)
 ### Request 5. 
