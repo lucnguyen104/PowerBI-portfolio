@@ -135,7 +135,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
 ### Request 1
 Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
 
-![6](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/853af1f3-67cb-428d-9a21-9dcd3fdd5032)
+![6](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20210520.png)
 
 ### Request 1 Optional
 Which are the bottom 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
