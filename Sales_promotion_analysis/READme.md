@@ -250,7 +250,7 @@ Promotion BOGOF also shows a relatively high revenue per unit sold. However, Pro
 
 Therefore, Promotions 500 Cashback, BOGOF, and 33% Off could be considered as the best balance between Incremental Sold Units and maintaining healthy margins.
 
-![18](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/b554884c-0798-4ba8-a9f5-754523f05992.jpg)
+![18](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20205452.png)
 
 #
 [Home 🔁](#tables-of-content)
