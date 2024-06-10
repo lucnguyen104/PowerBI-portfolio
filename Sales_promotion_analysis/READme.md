@@ -176,7 +176,7 @@ How does the performance of stores vary by city? Are there any common characteri
 
 Check out this insights to understand top 2 store have whats kinds of things common
 
-![12](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/e80fa264-e6d9-4114-b1b9-f97c430aac7d)
+![12](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20221111.png)
 
 
 #
