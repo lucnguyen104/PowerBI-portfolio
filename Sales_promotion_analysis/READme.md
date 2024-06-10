@@ -100,7 +100,7 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
  * Next, to compute the ISU (Incremental Quantity Sold %), another new column was created. A DAX formula was applied to calculate the percentage change in quantity sold after subtracting the quantity sold before and then dividing by the quantity sold before. This resulted in the percentage change value, which was then converted to a percentage format.
 
 #### SQL
-![Request 4 ](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/04272336-52f0-4023-a66a-4c49bc2c4f5c)
+![Request 4 ](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/309549517-04272336-52f0-4023.jpg)
 
 #### Power BI
 ![Request 4 a](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20205452.png)
