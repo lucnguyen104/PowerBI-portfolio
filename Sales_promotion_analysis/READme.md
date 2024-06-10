@@ -155,7 +155,7 @@ Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) dur
 ### Request 2 Optional 
 Which are the Top 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
 
-![10](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/095b9bc9-9356-453e-95cf-35c21774838d)
+![10](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20211643.png)
 
 #
 [Home 🔁](#tables-of-content)
