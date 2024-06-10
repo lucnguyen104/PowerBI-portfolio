@@ -263,7 +263,7 @@ Which product categories saw the most significant lift in sales from the promoti
 ### Request 1 Optional
 Which product categories saw the most significant lift in revenue from the promotions?
 
-![20](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/cd563890-d1fa-4542-be75-c550b92e59f7)
+![20](https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Sales_promotion_analysis/image/Screenshot%202024-06-10%20223251.png)
 
 #
 [Home 🔁](#tables-of-content)
