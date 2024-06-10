@@ -95,7 +95,6 @@ Produce a report that calculates the Incremental Sold Quantity (ISU%) for each c
 
 Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentage increase/decrease in quantity sold (after promo) compared to quantity sold (before promo)
 
-#### Tips- 
  * First, to calculate the quantity sold after the promo, a new column was created. In this column, if the quantity after the promo corresponds to a BOGOF (Buy One Get One Free) offer, it is multiplied by 2; otherwise, it remains the same.
 
  * Next, to compute the ISU (Incremental Quantity Sold %), another new column was created. A DAX formula was applied to calculate the percentage change in quantity sold after subtracting the quantity sold before and then dividing by the quantity sold before. This resulted in the percentage change value, which was then converted to a percentage format.
@@ -110,7 +109,6 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
 ### Request 5. 
 Create a report featuring the Top 5 products, ranked by Incremental Revenue Percentage (IR%), across all campaigns. The report will provide essential information including product name, category, and ir%. This analysis helps identify the most successful products in terms of incremental revenue across our campaigns, assisting in product optimization.
 
-#### Tips- 
  * For the analysis of the top 5 products based on revenue before and after the promotion, along with the calculation of the Incremental Revenue Percentage (IR%), I have initially created a column called "Revenue After Promo." This column calculates the revenue after the promotion by subtracting the discounted amount based on the promo percentage (e.g., 20%, 33%, 55%, etc.) from the base value. Then, this adjusted value is multiplied by the quantity to derive the revenue after the promotion.
 
  * Subsequently, I computed the Incremental Revenue (IR) similar to the ISU formula, which involves calculating the difference between the revenue after the promotion and the revenue before the promotion.
