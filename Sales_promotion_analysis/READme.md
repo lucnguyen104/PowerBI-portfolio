@@ -301,7 +301,7 @@ What is the correlation between product category and promotion type effectivenes
 [Home 🔁](#tables-of-content)
 ## Some Recommendation
 
-#### 01  Where we can lunch new store in future?
+#### 01  Where we can launch new store in future?
 Based on the previous analysis, it is recommended that AtliQ Mart should consider opening its new store in the top-performing city. This decision is supported by our observation that the top city generates higher revenue.
 
 #### 02  Promotion Strategy for future Promotion Campaign
