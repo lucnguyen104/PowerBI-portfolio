@@ -39,7 +39,7 @@ Performance Metrics:
 <p align="center">
   <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-3.jpg" height="400">
 </p>
-Recommendation:
+# Recommendation:
 Based on the insights derived from the analysis, here are the top recommendations for improving service level and overall rating:
 
 1. Enhance Product Setup Support:
