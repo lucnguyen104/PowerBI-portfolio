@@ -39,60 +39,60 @@ Performance Metrics:
 <p align="center">
   <img src="https://github.com/lucnguyen104/PowerBI-portfolio/blob/main/Ticket_Analysis/ticket-analysis-images-3.jpg" height="400">
 </p>
-#
+
 
 # Recommendation:
 Based on the insights derived from the analysis, here are the top recommendations for improving service level and overall rating:
 
 ## 1. Enhance Product Setup Support:
-Insight: 27% of tickets (630) are about product setup, but it has the lowest satisfaction rating (3.4).
+* **Insight**: 27% of tickets (630) are about product setup, but it has the lowest satisfaction rating (3.4).
 
-Recommendation: Develop comprehensive documentation, including user guides and FAQs. Create step-by-step video tutorials on YouTube for common setup tasks.
+* **Recommendation**: Develop comprehensive documentation, including user guides and FAQs. Create step-by-step video tutorials on YouTube for common setup tasks.
 
 ## 2. Improve Email Response Times:
-Insight: Over 50% of tickets come through email, but it has the slowest first response time compared to chat and phone.
+* **Insight**: Over 50% of tickets come through email, but it has the slowest first response time compared to chat and phone.
 
-Recommendation: Implement a target response time of 5 minutes for emails to improve customer experience. Focus on reducing overall resolution times for email inquiries.
+* **Recommendation**: Implement a target response time of 5 minutes for emails to improve customer experience. Focus on reducing overall resolution times for email inquiries.
 
 ## 3. Leverage Chatbots and AI:
-Insight: Only 86.7% of tickets receive a first response within SLA, impacting satisfaction.
+* **Insight**: Only 86.7% of tickets receive a first response within SLA, impacting satisfaction.
 
-Recommendation: Utilize chatbots and AI-powered tools to handle routine inquiries, improving response rates and meeting SLA targets. This frees up human agents for more complex issues.
+* **Recommendation**: Utilize chatbots and AI-powered tools to handle routine inquiries, improving response rates and meeting SLA targets. This frees up human agents for more complex issues.
 
 ## 4. Targeted Agent Training:
-Insight: Analyze performance metrics to identify lower-performing agents like(Kristos Westoll).
+* **Insight**: Analyze performance metrics to identify lower-performing agents like(Kristos Westoll).
 
-Recommendation: Provide targeted training programs to address skill gaps and improve the performance of lower-scoring agents.
+Recommendation**: Provide targeted training programs to address skill gaps and improve the performance of lower-scoring agents.
 
 ## 5. Leverage Top Performers:
-Insight: Identify top-performing agents based on metrics like resolution time and ratings.
+* **Insight**: Identify top-performing agents based on metrics like resolution time and ratings.
 
-Recommendation: Assign more complex tickets to top performers to enhance overall efficiency and customer satisfaction.
+* **Recommendation**: Assign more complex tickets to top performers to enhance overall efficiency and customer satisfaction.
 
 ## 6. Prioritize High-Priority Tickets:
-Insight: Low priority tickets have the Lowest customer satisfaction rating (3.44).
+* **Insight**: Low priority tickets have the Lowest customer satisfaction rating (3.44).
 
-Recommendation: Implement a system to prioritize high-priority tickets to ensure they receive prompt attention and resolution.
+* **Recommendation**: Implement a system to prioritize high-priority tickets to ensure they receive prompt attention and resolution.
 
 ## 7. Focus on Phone Support Satisfaction:
-Insight: Phone support has the lowest customer satisfaction rating (3.42) compared to chat (3.54) and email (3.51).
+* **Insight**: Phone support has the lowest customer satisfaction rating (3.42) compared to chat (3.54) and email (3.51).
 
-Recommendation: Investigate reasons behind lower phone satisfaction. Consider agent training on phone communication skills and empathy.
+* **Recommendation**: Investigate reasons behind lower phone satisfaction. Consider agent training on phone communication skills and empathy.
 
 ## 8. Address Country-Specific Issues:
-Insight: Poland has the highest rating (3.64), while Australia has the lowest (3.24).
+* **Insight**: Poland has the highest rating (3.64), while Australia has the lowest (3.24).
 
-Recommendation: Analyze reasons behind lower ratings in specific countries. Consider cultural differences or language barriers, and tailor support strategies accordingly.
+* **Recommendation**: Analyze reasons behind lower ratings in specific countries. Consider cultural differences or language barriers, and tailor support strategies accordingly.
 
 ## 9. Enhance SLA Compliance:
-Insight: Only 64.4% of tickets are resolved within SLA.
+* **Insight**: Only 64.4% of tickets are resolved within SLA.
 
-Recommendation: Implement stricter performance tracking and accountability measures for agents to ensure SLA adherence. Consider incentives or rewards for consistent SLA compliance.
+* **Recommendation**: Implement stricter performance tracking and accountability measures for agents to ensure SLA adherence. Consider incentives or rewards for consistent SLA compliance.
 
 ## 10. Optimize Chat Support for After-Hours:
-Insight: 67.21% of tickets are created after work hours.
+* **Insight**: 67.21% of tickets are created after work hours.
 
-Recommendation: Expand chat support availability during after-hours and weekends to address the surge in ticket volume. Consider implementing live chat features or virtual assistants.
+* **Recommendation**: Expand chat support availability during after-hours and weekends to address the surge in ticket volume. Consider implementing live chat features or virtual assistants.
 #
 
 # How this project insights and recomendation Benefits to Stakeholders:
