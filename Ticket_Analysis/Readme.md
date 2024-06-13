@@ -42,7 +42,7 @@ Performance Metrics:
 # Recommendation:
 Based on the insights derived from the analysis, here are the top recommendations for improving service level and overall rating:
 
-1. Enhance Product Setup Support:
+## 1. Enhance Product Setup Support:
 Insight: 27% of tickets (630) are about product setup, but it has the lowest satisfaction rating (3.4).
 
 Recommendation: Develop comprehensive documentation, including user guides and FAQs. Create step-by-step video tutorials on YouTube for common setup tasks.
