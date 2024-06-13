@@ -62,7 +62,7 @@ Based on the insights derived from the analysis, here are the top recommendation
 ## 4. Targeted Agent Training:
 * **Insight**: Analyze performance metrics to identify lower-performing agents like(Kristos Westoll).
 
-Recommendation**: Provide targeted training programs to address skill gaps and improve the performance of lower-scoring agents.
+* **Recommendation**: Provide targeted training programs to address skill gaps and improve the performance of lower-scoring agents.
 
 ## 5. Leverage Top Performers:
 * **Insight**: Identify top-performing agents based on metrics like resolution time and ratings.
@@ -96,10 +96,10 @@ Recommendation**: Provide targeted training programs to address skill gaps and i
 #
 
 # How this project insights and recomendation Benefits to Stakeholders:
-Improved Customer Satisfaction: By implementing the recommendations, such as enhancing product setup support, reducing email response times, and prioritizing high-priority tickets, you can significantly improve customer satisfaction. This will lead to happier customers, increased customer retention, and potentially more positive brand perception.
+* **Improved Customer Satisfaction**: By implementing the recommendations, such as enhancing product setup support, reducing email response times, and prioritizing high-priority tickets, you can significantly improve customer satisfaction. This will lead to happier customers, increased customer retention, and potentially more positive brand perception.
 
-Enhanced Efficiency and Productivity: The recommendations around leveraging chatbots and AI, targeted agent training, and optimizing chat support for after-hours will improve the efficiency of your technical support center. This will allow agents to handle more complex issues and reduce overall resolution times.
+* **Enhanced Efficiency and Productivity**: The recommendations around leveraging chatbots and AI, targeted agent training, and optimizing chat support for after-hours will improve the efficiency of your technical support center. This will allow agents to handle more complex issues and reduce overall resolution times.
 
-Data-Driven Decision Making: This project provides stakeholders with valuable data and insights into the performance of the technical support center. This data can be used to make informed decisions about resource allocation, service level agreements (SLAs), and overall support strategies.
+* **Data-Driven Decision Making**: This project provides stakeholders with valuable data and insights into the performance of the technical support center. This data can be used to make informed decisions about resource allocation, service level agreements (SLAs), and overall support strategies.
 
-Identification of Areas for Improvement: The analysis highlights areas where the technical support center can improve, such as product setup support and phone support satisfaction. By addressing these areas, stakeholders can ensure the support center is meeting the needs of customers.
+* **Identification of Areas for Improvement**: The analysis highlights areas where the technical support center can improve, such as product setup support and phone support satisfaction. By addressing these areas, stakeholders can ensure the support center is meeting the needs of customers.
